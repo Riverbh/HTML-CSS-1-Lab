@@ -11,7 +11,7 @@ img {
 }
 
 h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 50px;
     color: #fc3a52;
     background-color: #0e2431;
@@ -32,12 +32,12 @@ h1 {
     color: #fc3a52;
     font-size: 75px;
     background-color: ;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 h3 {
     font-size: 45px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Anton', sans-serif;
     color:#fc3a52;
 }
 
